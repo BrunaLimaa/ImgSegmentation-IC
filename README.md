@@ -11,6 +11,7 @@ Este espaço serve como um diário de bordo, e também como uma forma de compart
 O repositório está organizado da seguinte forma:
 
 * **/notebooks**: Contém os scripts e exercícios práticos em formato de Jupyter Notebooks (`.ipynb`). Cada notebook explora um conceito ou técnica específica.
+* **/scripts**: Contém módulos e funções em Python puro (`.py`). Esta pasta serve como uma "caixa de ferramentas" com código reutilizável que pode ser importado pelos notebooks.
 * **/data**: Pode conter pequenos conjuntos de dados de exemplo usados nos notebooks.
 * **/papers**: Pode conter artigos e materiais de referência para o estudo.
 
