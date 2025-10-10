@@ -22,7 +22,7 @@ Abaixo está uma lista dos exercícios concluídos até o momento.
 
 | Arquivo                                       | Descrição                                                                                                  | Abrir no Colab                                                                                                                                                                             |
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `01-Introducao-Segmentacao.ipynb`             | Um exercício básico que introduz dois métodos de segmentação de imagem: Limiar (Thresholding) e K-Means Clustering. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrunaLimaa/ImgSegmentation-IC/blob/main/notebooks/01-Introducao-Segmentacao.ipynb) |
+| `01-Introducao-Segmentacao.ipynb`             | Um exercício básico que introduz dois métodos de segmentação de imagem: Limiar (Thresholding) e K-Means Clustering. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrunaLimaa/ImgSegmentation-IC/blob/main/notebooks/01_Introducao_Segmentacao.ipynb) |
 
 ---
 
