@@ -54,8 +54,12 @@ Alternativamente, você pode:
 ## 🛠️ Ferramentas e Bibliotecas Principais
 
 * Python 3
+* Astropy
 * NumPy
 * Matplotlib
 * Scikit-image
 * Scikit-learn
 * Google Colab
+* Deep Lab v3
+* Torch
+  
