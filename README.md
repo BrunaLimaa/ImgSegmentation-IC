@@ -19,11 +19,11 @@ O repositório está organizado da seguinte forma:
 
 ## 📜 Scripts e Notebooks Desenvolvidos
 
-Abaixo está uma lista dos exercícios concluídos até o momento.
+último notebook desenolvido.
 
 | Arquivo                                       | Descrição                                                                                                  | Abrir no Colab                                                                                                                                                                             |
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `01-Introducao-Segmentacao.ipynb`             | Um exercício básico que introduz dois métodos de segmentação de imagem: Limiar (Thresholding) e K-Means Clustering. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrunaLimaa/ImgSegmentation-IC/blob/SDUAISHD/notebooks/01_Introducao_Segmentacao.ipynb) |
+| `07_bar_size.ipynb`             | Um exercício básico que introduz dois métodos de segmentação de imagem: Limiar (Thresholding) e K-Means Clustering. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrunaLimaa/ImgSegmentation-IC/blob/SDUAISHD/notebooks/07_bar_size.ipynb) |
 
 ---
 
