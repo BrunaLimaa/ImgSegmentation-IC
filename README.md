@@ -23,7 +23,7 @@ O repositório está organizado da seguinte forma:
 
 | Arquivo                                       | Descrição                                                                                                  | Abrir no Colab                                                                                                                                                                             |
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `07_bar_size.ipynb`             | Um exercício básico que introduz dois métodos de segmentação de imagem: Limiar (Thresholding) e K-Means Clustering. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrunaLimaa/ImgSegmentation-IC/blob/SDUAISHD/notebooks/07_bar_size.ipynb) |
+| `07_bar_size.ipynb`             | Faz um cálculo aproximado do tamanho da barra e converte de pixels para parsecs. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrunaLimaa/ImgSegmentation-IC/blob/SDUAISHD/notebooks/07_bar_size.ipynb) |
 
 ---
 
