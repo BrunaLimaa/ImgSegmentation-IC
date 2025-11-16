@@ -62,4 +62,7 @@ Alternativamente, você pode:
 * Google Colab
 * Deep Lab v3
 * Torch
+* Astrodendro
+* Sep
+* Photutils
   
